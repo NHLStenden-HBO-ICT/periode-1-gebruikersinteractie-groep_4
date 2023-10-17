@@ -1,1 +1,11 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12422151&assignment_repo_type=AssignmentRepo)
+# HBO-ICT 1A - Groep 4
+
+Leden:
+- Max van Dijk (5423384)
+- Eelke Engelsma (4608321)
+- Onurcan Gözüaçik (5350867)
+- Dylan ter Heege (5395968)
+- Lars IJntema (5315093)
+- Freark de Lange (5322537)
+
+[GitHub Repo - URL](https://github.com/NHL-Stenden-HBO-ICT/Minerunner)
